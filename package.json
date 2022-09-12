@@ -1,0 +1,22 @@
+{
+  "name": "jest-anotherrpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaneCronin/jest-anotherRPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaneCronin/jest-anotherRPG/issues"
+  },
+  "homepage": "https://github.com/DaneCronin/jest-anotherRPG#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
